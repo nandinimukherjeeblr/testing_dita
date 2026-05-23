@@ -1,0 +1,11 @@
+S1000D Sample Files – Notice
+The sample files contained in this directory are based on official S1000D example materials provided by:
+ 
+  AeroSpace and Defence Industries Association of Europe (ASD)
+  and the Ministries of Defence of the member countries of ASD.
+
+The original copyright notices and disclaimers included in the files have been preserved. These files are provided for demonstration and testing purposes within Oxygen XML products.
+
+S1000D® is a registered trademark of ASD — AeroSpace and Defence Industries Association of Europe. Syncro Soft SRL is not affiliated with, endorsed by, or in any way officially connected with ASD or the S1000D specification organization.
+
+For the official S1000D specification and documentation, please refer to: https://s1000d.org
